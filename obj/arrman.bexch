@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__arrman.o
+[PROJECT FILES]
+C:\Users\DLight\Desktop\Paralel\LAB5\lab5.gpr
+20230106205640 49262cd5df4677ed9a4ccef8acd43868
+[BOUND OBJECT FILES]
+C:\Users\DLight\Desktop\Paralel\LAB5\obj\arrman.o
+[GENERATED SOURCE FILES]
+b__arrman.ads
+b__arrman.adb
+b__arrman.ali
+[RESULTING OPTIONS]
+-LC:\Users\DLight\Desktop\Paralel\LAB5\obj\
+-LC:\Users\DLight\Desktop\Paralel\LAB5\obj\
+-LD:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+D:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+D:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
